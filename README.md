@@ -9,7 +9,7 @@ This application allows the client app to get, post and delete terms from the se
 ###
 Installation:
 After installing NodeJS, this application also requires the following dependencies which can be installed using the package manager, 'npm' that comes with NodeJS.
-npm install body-parser
-npm install cors
-npm install express
+npm install body-parser --save
+npm install cors --save
+npm install express --save
 

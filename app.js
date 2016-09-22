@@ -14,7 +14,7 @@ var vballTerms = [
 	},
 	{
 		term: "Rally",
-		def: "The play taking place between the serve and the end of the play in which one team earns the point."
+		def: "The play taking place between when the ball is served and the point is earned."
 	}
 ];
 
