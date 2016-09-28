@@ -6,9 +6,9 @@ This is a dictionary of volleyball terms that USYVL players and parents might he
 This application allows the client app to get, post and delete terms from the server application through an api. This application uses HTML5, CSS3, jQuery, JavaScript and NodeJS.
 
 ###Installation:
-After installing NodeJS, this application also requires the following dependencies which can be installed using the package manager, 'npm' that comes with NodeJS.
+This application requires the installation of NodeJS. The program can then be run with the following npm commands. 'npm' is the package manager that comes with NodeJS.
 
-###Instruction
+###Instructions
 ```shell
 npm install 
 npm start
