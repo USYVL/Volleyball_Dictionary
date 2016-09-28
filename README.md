@@ -1,5 +1,4 @@
-###
-Vollyball_Dictionary
+###Vollyball_Dictionary
 
 This is a dictionary of volleyball terms that USYVL players and parents might here at games/practices and be unfamiliar with. 
 
@@ -17,3 +16,5 @@ npm install
 npm start
 ```
 After running the above commands on the command line you should see that "Vballdictionary app running on port 3000". Once you see this message you can enter "http://localhost:3000" in your browser to run the app.
+
+Live demo sometimes hosted at: http://venom.eri.ucsb.edu:3000
