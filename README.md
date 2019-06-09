@@ -1,6 +1,8 @@
 ###Vollyball_Dictionary
 
-This is a dictionary of volleyball terms that USYVL players and parents might here at games/practices and be unfamiliar with. 
+This is a little nodejs app that Aja created for fun and practice.  It was never really deployed anywhere.
+
+It provides a sort of glossary of volleyball terms that USYVL players and parents might here at games/practices and be unfamiliar with. 
 
 ---
 This application allows the client app to get, post and delete terms from the server application through an api. This application uses HTML5, CSS3, jQuery, JavaScript and NodeJS.
